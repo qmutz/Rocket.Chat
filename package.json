@@ -243,7 +243,7 @@
 		"underscore": "^1.10.2",
 		"underscore.string": "^3.3.5",
 		"url-polyfill": "^1.1.10",
-		"use-subscription": "^1.4.1",
+		"use-subscription": "^1.8.0",
 		"uuid": "^3.4.0",
 		"webdav": "^2.10.2",
 		"wolfy87-eventemitter": "^5.2.9",
