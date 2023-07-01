@@ -236,7 +236,7 @@
 		"styled-components": "^4.4.1",
 		"tar-stream": "^1.6.2",
 		"toastr": "^2.1.4",
-		"turndown": "^5.0.3",
+		"turndown": "^6.0.0",
 		"twilio": "^3.48.2",
 		"twit": "^2.2.11",
 		"ua-parser-js": "^0.7.21",
