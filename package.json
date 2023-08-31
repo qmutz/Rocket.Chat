@@ -210,7 +210,7 @@
 		"mkdirp": "^0.5.5",
 		"moment": "^2.27.0",
 		"moment-timezone": "^0.5.31",
-		"mongodb": "^3.6.0",
+		"mongodb": "^3.6.10",
 		"node-dogstatsd": "^0.0.7",
 		"node-gcm": "0.14.4",
 		"node-rsa": "^1.1.1",
