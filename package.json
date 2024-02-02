@@ -201,7 +201,7 @@
 		"lodash.clonedeep": "^4.5.0",
 		"lodash.property": "^4.4.2",
 		"lru-cache": "^5.1.1",
-		"mailparser": "^2.8.1",
+		"mailparser": "^3.6.7",
 		"marked": "^0.6.3",
 		"mem": "^6.1.0",
 		"meteor-node-stubs": "^1.0.1",
